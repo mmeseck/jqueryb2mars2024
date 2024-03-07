@@ -188,9 +188,17 @@ $(function(){
     
     // });
     
+
+
+      //   ************************************ Les annimations*****************
     
-    
-    
+    $("h1").animate({
+        fontSize : "30px",
+        height: "1200px"
+    }, {
+    duration : 3000
+    }
+    )
     
     
     
